@@ -2,6 +2,8 @@
 
 This program enables users to host and download files in a distributed manner. It utilizes UDP broadcasting for content discovery and TCP connections for file transfers.
 
+![readme image](readme.png)
+
 ## Usage
 1. Run the program.
 2. Follow the prompts for hosting and downloading files.
